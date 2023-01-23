@@ -1,0 +1,117 @@
+<tr>
+    <td style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-style: normal;  font-weight: 600; font-size: 12px;line-height: 15px; text-transform: uppercase; color: #0A4785; padding-left: 12px; padding-top: 10px; padding-bottom: 10px; border-width: 0 0 1px 1px; border-color: #0A4785; border-style: solid;">
+        <a style="color: #0A4785;" target="_blank" href="https://www.bkc.ru/open_doors/?school_id=334&utm_source=email&utm_medium=link&utm_campaign=sched_tver">ВКС Тверская</a> 
+    </td>
+    <td style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-style: normal;  font-weight: 600; font-size: 12px;line-height: 15px; color: #000000; padding-left: 12px; padding-top: 10px; padding-bottom: 10px; border-width: 0 0 1px 1px; border-color: #0A4785; border-style: solid;">
+        <b>20 января</b>
+    </td>
+    <td style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-style: normal;  font-weight: 600; font-size: 12px;line-height: 15px; color: #000000; padding-left: 12px; padding-top: 10px; padding-bottom: 10px; border-width: 0 0 1px 1px; border-color: #0A4785; border-style: solid;">
+        18:00-18:45
+    </td>
+    <td style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-style: normal;  font-weight: 600; font-size: 12px;line-height: 15px; color: #000000; padding-left: 12px; padding-top: 10px; padding-bottom: 10px; border-width: 0 1px 1px 1px; border-color: #0A4785; border-style: solid;">
+        Взрослые
+    </td>
+</tr>
+<tr>
+    <td style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-style: normal;  font-weight: 600; font-size: 12px;line-height: 15px; text-transform: uppercase; color: #000000; padding-left: 12px; padding-top: 10px; padding-bottom: 10px; border-width: 0 0 1px 1px; border-color: #0A4785; border-style: solid;">
+        <a style="color: #000000; text-decoration: none;" href="tel:+74951251132">+7 (495) 125-11-32</a> 
+    </td>
+    <td style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-style: normal;  font-weight: 600; font-size: 12px;line-height: 15px; color: #000000; padding-left: 12px; padding-top: 10px; padding-bottom: 10px; border-width: 0 0 1px 1px; border-color: #0A4785; border-style: solid;">
+        <b>21 января</b>
+    </td>
+    <td style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-style: normal;  font-weight: 600; font-size: 12px;line-height: 15px; color: #000000; padding-left: 12px; padding-top: 10px; padding-bottom: 10px; border-width: 0 0 1px 1px; border-color: #0A4785; border-style: solid;">
+        13:00-13:45 
+    </td>
+    <td style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-style: normal;  font-weight: 600; font-size: 12px;line-height: 15px; color: #000000; padding-left: 12px; padding-top: 10px; padding-bottom: 10px; border-width: 0 1px 1px 1px; border-color: #0A4785; border-style: solid;">
+        Дети 4-6 лет
+    </td>
+</tr>
+<tr>
+    <td style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-style: normal;  font-weight: 600; font-size: 12px;line-height: 15px; text-transform: uppercase; color: #0A4785; padding-left: 12px; padding-top: 10px; padding-bottom: 10px; border-width: 0 0 1px 1px; border-color: #0A4785; border-style: solid;">
+    </td>
+    <td style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-style: normal;  font-weight: 600; font-size: 12px;line-height: 15px; color: #000000; padding-left: 12px; padding-top: 10px; padding-bottom: 10px; border-width: 0 0 1px 1px; border-color: #0A4785; border-style: solid;">
+    </td>
+    <td style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-style: normal;  font-weight: 600; font-size: 12px;line-height: 15px; color: #000000; padding-left: 12px; padding-top: 10px; padding-bottom: 10px; border-width: 0 0 1px 1px; border-color: #0A4785; border-style: solid;">
+        15:00-15:45
+    </td>
+    <td style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-style: normal;  font-weight: 600; font-size: 12px;line-height: 15px; color: #000000; padding-left: 12px; padding-top: 10px; padding-bottom: 10px; border-width: 0 1px 1px 1px; border-color: #0A4785; border-style: solid;">
+        Дети 10-12 лет
+    </td>
+</tr>
+<tr>
+    <td style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-style: normal;  font-weight: 600; font-size: 12px;line-height: 15px; text-transform: uppercase; color: #0A4785; padding-left: 12px; padding-top: 10px; padding-bottom: 10px; border-width: 0 0 1px 1px; border-color: #0A4785; border-style: solid;">
+    </td>
+    <td style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-style: normal;  font-weight: 600; font-size: 12px;line-height: 15px; color: #000000; padding-left: 12px; padding-top: 10px; padding-bottom: 10px; border-width: 0 0 1px 1px; border-color: #0A4785; border-style: solid;">
+    </td>
+    <td style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-style: normal;  font-weight: 600; font-size: 12px;line-height: 15px; color: #000000; padding-left: 12px; padding-top: 10px; padding-bottom: 10px; border-width: 0 0 1px 1px; border-color: #0A4785; border-style: solid;">
+        16:00-16:45 
+    </td>
+    <td style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-style: normal;  font-weight: 600; font-size: 12px;line-height: 15px; color: #000000; padding-left: 12px; padding-top: 10px; padding-bottom: 10px; border-width: 0 1px 1px 1px; border-color: #0A4785; border-style: solid;">
+        Дети 13-16 лет
+    </td>
+</tr>
+
+<tr>
+    <td style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-style: normal;  font-weight: 600; font-size: 12px;line-height: 15px; text-transform: uppercase; color: #0A4785; padding-left: 12px; padding-top: 10px; padding-bottom: 10px; border-width: 0 0 1px 1px; border-color: #0A4785; border-style: solid; background: #F2F9FF;">
+        <a style="color: #0A4785;" target="_blank" href="https://www.bkc.ru/open_doors/?school_id=337&utm_source=email&utm_medium=link&utm_campaign=sched_cp">ВКС Чистые<br> пруды</a> 
+    </td>
+    <td style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-style: normal;  font-weight: 600; font-size: 12px;line-height: 15px; color: #000000; padding-left: 12px; padding-top: 10px; padding-bottom: 10px; border-width: 0 0 1px 1px; border-color: #0A4785; border-style: solid; background: #F2F9FF;">
+        <b>20 января</b>
+    </td>
+    <td style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-style: normal;  font-weight: 600; font-size: 12px;line-height: 15px; color: #000000; padding-left: 12px; padding-top: 10px; padding-bottom: 10px; border-width: 0 0 1px 1px; border-color: #0A4785; border-style: solid; background: #F2F9FF;">
+        19:00-19:45
+    </td>
+    <td style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-style: normal;  font-weight: 600; font-size: 12px;line-height: 15px; color: #000000; padding-left: 12px; padding-top: 10px; padding-bottom: 10px; border-width: 0 1px 1px 1px; border-color: #0A4785; border-style: solid; background: #F2F9FF;">
+        Взрослые
+    </td>
+</tr>
+<tr>
+    <td style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-style: normal;  font-weight: 600; font-size: 12px;line-height: 15px; text-transform: uppercase; color: #000000; padding-left: 12px; padding-top: 10px; padding-bottom: 10px; border-width: 0 0 1px 1px; border-color: #0A4785; border-style: solid; background: #F2F9FF;">
+        <a style="color: #000000; text-decoration: none;" href="tel:+74951823094">+7 (495) 182-30-94</a> 
+    </td>
+    <td style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-style: normal;  font-weight: 600; font-size: 12px;line-height: 15px; color: #000000; padding-left: 12px; padding-top: 10px; padding-bottom: 10px; border-width: 0 0 1px 1px; border-color: #0A4785; border-style: solid; background: #F2F9FF;">
+        <b>21 января</b>
+    </td>
+    <td style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-style: normal;  font-weight: 600; font-size: 12px;line-height: 15px; color: #000000; padding-left: 12px; padding-top: 10px; padding-bottom: 10px; border-width: 0 0 1px 1px; border-color: #0A4785; border-style: solid; background: #F2F9FF;">
+        12:00-12:45 
+    </td>
+    <td style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-style: normal;  font-weight: 600; font-size: 12px;line-height: 15px; color: #000000; padding-left: 12px; padding-top: 10px; padding-bottom: 10px; border-width: 0 1px 1px 1px; border-color: #0A4785; border-style: solid; background: #F2F9FF;">
+        Дети 4-6 лет
+    </td>
+</tr>
+<tr>
+    <td style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-style: normal;  font-weight: 600; font-size: 12px;line-height: 15px; text-transform: uppercase; color: #000000; padding-left: 12px; padding-top: 10px; padding-bottom: 10px; border-width: 0 0 1px 1px; border-color: #0A4785; border-style: solid; background: #F2F9FF;">
+    </td>
+    <td style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-style: normal;  font-weight: 600; font-size: 12px;line-height: 15px; color: #000000; padding-left: 12px; padding-top: 10px; padding-bottom: 10px; border-width: 0 0 1px 1px; border-color: #0A4785; border-style: solid; background: #F2F9FF;">
+    </td>
+    <td style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-style: normal;  font-weight: 600; font-size: 12px;line-height: 15px; color: #000000; padding-left: 12px; padding-top: 10px; padding-bottom: 10px; border-width: 0 0 1px 1px; border-color: #0A4785; border-style: solid; background: #F2F9FF;">
+        13:00-13:45 
+    </td>
+    <td style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-style: normal;  font-weight: 600; font-size: 12px;line-height: 15px; color: #000000; padding-left: 12px; padding-top: 10px; padding-bottom: 10px; border-width: 0 1px 1px 1px; border-color: #0A4785; border-style: solid; background: #F2F9FF;">
+        Дети 7-9 лет
+    </td>
+</tr>
+<tr>
+    <td style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-style: normal;  font-weight: 600; font-size: 12px;line-height: 15px; text-transform: uppercase; color: #000000; padding-left: 12px; padding-top: 10px; padding-bottom: 10px; border-width: 0 0 1px 1px; border-color: #0A4785; border-style: solid; background: #F2F9FF;">
+    </td>
+    <td style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-style: normal;  font-weight: 600; font-size: 12px;line-height: 15px; color: #000000; padding-left: 12px; padding-top: 10px; padding-bottom: 10px; border-width: 0 0 1px 1px; border-color: #0A4785; border-style: solid; background: #F2F9FF;">
+    </td>
+    <td style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-style: normal;  font-weight: 600; font-size: 12px;line-height: 15px; color: #000000; padding-left: 12px; padding-top: 10px; padding-bottom: 10px; border-width: 0 0 1px 1px; border-color: #0A4785; border-style: solid; background: #F2F9FF;">
+        14:00-14:45 
+    </td>
+    <td style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-style: normal;  font-weight: 600; font-size: 12px;line-height: 15px; color: #000000; padding-left: 12px; padding-top: 10px; padding-bottom: 10px; border-width: 0 1px 1px 1px; border-color: #0A4785; border-style: solid; background: #F2F9FF;">
+        Дети 10-12 лет
+    </td>
+</tr>
+<tr>
+    <td style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-style: normal;  font-weight: 600; font-size: 12px;line-height: 15px; text-transform: uppercase; color: #000000; padding-left: 12px; padding-top: 10px; padding-bottom: 10px; border-width: 0 0 1px 1px; border-color: #0A4785; border-style: solid; background: #F2F9FF;">
+    </td>
+    <td style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-style: normal;  font-weight: 600; font-size: 12px;line-height: 15px; color: #000000; padding-left: 12px; padding-top: 10px; padding-bottom: 10px; border-width: 0 0 1px 1px; border-color: #0A4785; border-style: solid; background: #F2F9FF;">
+    </td>
+    <td style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-style: normal;  font-weight: 600; font-size: 12px;line-height: 15px; color: #000000; padding-left: 12px; padding-top: 10px; padding-bottom: 10px; border-width: 0 0 1px 1px; border-color: #0A4785; border-style: solid; background: #F2F9FF;">
+        15:00-15:45 
+    </td>
+    <td style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-style: normal;  font-weight: 600; font-size: 12px;line-height: 15px; color: #000000; padding-left: 12px; padding-top: 10px; padding-bottom: 10px; border-width: 0 1px 1px 1px; border-color: #0A4785; border-style: solid; background: #F2F9FF;">
+        Дети 13-16 лет
+    </td>
+</tr>
