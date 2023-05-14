@@ -1,0 +1,28 @@
+<!-- <tr>
+                                    <td align="left" valign="top"> 
+                                        <a href="https://newton-school.ru/"><img src="https://261520.selcdn.ru/files/45202/logo3745.png" style="padding-left: 20px; padding-top: 7px;" alt=""></a>
+                                    </td>
+                                  </tr>
+                                  <tr>
+                                    <td>
+                                        <a target="_blank" href="https://t.me/newton_school_bkc/109" style="display: block; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-style: normal;  font-weight: 800; font-size: 64px; line-height: 77px; color: #FFFFFF; text-decoration: none; text-transform: uppercase; padding-left: 20px;">ДАРИМ<br> ГАЙД</a>
+                                    </td>
+                                  </tr>
+                                  <tr>
+                                    <td>
+                                        <table cellspacing="0" cellpadding="0" border="0" style="padding-left: 20px;">
+                                            <tbody>
+                                                <tr>
+                                                    <td valign="top">
+                                                        <img src="https://storage.dashamail.ru/files/45202/figure580.png" alt="" style="padding-top: 5px;">
+                                                    </td>
+                                                    <td valign="top">
+                                                        <a href="" target="_blank" style=" font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-style: normal;  font-weight: 700; font-size: 20px;line-height: 25px; color: #FBBA00; padding-left: 5px; text-decoration: none; display: inline-block; width: 550px;">
+                                                            Материалы от<br> преподавателей<br> Newton School
+                                                        </a>
+                                                    </td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </td>
+                                  </tr> -->
