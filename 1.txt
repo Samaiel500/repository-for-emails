@@ -1,17 +1,20 @@
-🗓 1 June 2023 (Thursday): English for Specific Purpose
-⏰👩‍🏫 10:00 - 11:30 (Olga Fomina, Academic Director for BKC- IH Moscow Incompany)
-📑 Adapting lessons and courses for different companies, types of business and specific student goals
-⏰👩‍🏫 11:45 - 13:15 (Anna Kuliashova, Academic Director for the BKC-IH MBA Centre and MBA Online School)
-📑 Using Artificial Intelligence in Assessment
-Visit our website to find out more, and to book your place
-🗓 17 June 2023 (Saturday): General Methodology
-⏰👩‍🏫 10:00 - 11:30 (Anna Kashcheeva, Teacher Trainer, CELTA and Delta Tutor)
-📑 Making Use of Authentic Materials
-⏰👩‍🏫 11:45 - 13:15 (Olga Connolly, Senior Methodologist at English for Yandex.Practicum, CELTA and Delta trainer)
-📑 Upgrading students' language during feedback on speaking
-Visit our website to find out more, and to book your place
-🗓 30 June 2023 (Friday): Teacher Training (Giving feedback)
-⏰👩‍🏫 10:00 - 11:30 (Olga Connolly, Senior Methodologist at English for Yandex.Practicum, CELTA and Delta trainer)
-📑 Ensuring teacher development and motivation when giving feedback on teachers' lessons.
-⏰👩‍🏫 11:45 - 13:15 (Anastasia Dereviankina, Director of Studies for BKC-IH Moscow)
-📑 The importance of developing soft skills for EFL teachers
+<!-- <tr>
+                                                <td align="center" style="width: 260px">
+                                                    <div style="min-height: 64px;"><img style="padding-top: 7px;" src="https://storage.dashamail.ru/files/45202/img-11428.png" alt=""></div>
+                                                    <span style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-style: normal;  font-weight: 300; font-size: 16px;line-height: 19px; color: #FFFFFF; text-align: center; text-transform: uppercase; display: block; padding-top: 10px;">Видео-разборы<br> от психолога</span>
+                                                </td>
+                                                <td align="center" style="width: 260px;">
+                                                    <div style="min-height: 64px;"><img src="https://storage.dashamail.ru/files/45202/img-23623.png" alt=""></div>
+                                                    <span style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-style: normal;  font-weight: 300; font-size: 16px;line-height: 19px; color: #FFFFFF; text-align: center; text-transform: uppercase; display: block; padding-top: 10px;">Полезные<br> лайфхаки</span>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td align="center" style="width: 260px; padding-top: 50px;">
+                                                    <img src="https://storage.dashamail.ru/files/45202/img-37442.png" alt="">
+                                                    <span style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-style: normal;  font-weight: 300; font-size: 16px;line-height: 19px; color: #FFFFFF; text-align: center; text-transform: uppercase; display: block; padding-top: 10px;">Экспертный блог<br> от преподавателей<br> Newton</span>
+                                                </td>
+                                                <td align="center" style="width: 260px; padding-top: 50px;">
+                                                    <img src="https://storage.dashamail.ru/files/45202/img-45437.png" alt="">
+                                                    <span style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-style: normal;  font-weight: 300; font-size: 16px;line-height: 19px; color: #FFFFFF; text-align: center; text-transform: uppercase; display: block; padding-top: 10px;">Яркая и интересная<br> жизнь ньютонцев</span>
+                                                </td>
+                                            </tr> -->
