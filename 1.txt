@@ -1,3 +1,44 @@
-общаться свободно в путешествиях
-смотреть фильмы и читать книги в оригинале
-преодолеть языковой барьер раз и навсегда
+<!-- <table cellspacing="0" cellpadding="0" width="600px" border="0" style="padding-left: 20px; padding-right: 20px;">
+                    <tbody>
+                        <tr>
+                            <td valign="top" style="width: 560px; height: 660px; background: #F4EDED; background: url(https://storage.dashamail.ru/files/45202/teach-11659.png) no-repeat center top;">
+                                <table cellspacing="0" cellpadding="0" border="0">
+                                    <tbody>
+                                        <tr>
+                                            <td align="left">
+                                              <div style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-style: normal;  font-weight: 400; font-size: 16px; line-height: 21px; color: #000000; text-align: left; padding-top: 65px; padding-left: 40px;">
+                                                Ирина<br> Сенаторова
+                                              </div>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td valign="top">
+                                                <table cellspacing="0" cellpadding="0" border="0" style="padding-right: 23px; padding-top: 80px;">
+                                                    <tbody>
+                                                        <tr>
+                                                            <td style="width: 200px;"></td>
+                                                            <td valign="top">
+                                                                <img src="https://storage.dashamail.ru/files/45202/some5403.png" alt="">
+                                                            </td>
+                                                            <td valign="top">
+                                                                <div style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-style: normal;  font-weight: 400; font-size: 18px; line-height: 20px; color: #000000; text-align: left; padding-left: 7px;">
+                                                                    <p style="margin-top: 0; margin-bottom: 10px;">Чтобы выучить английский, нужно его учить)))</p>
+                                                                    
+                                                                    <p style="margin-top: 0; margin-bottom: 10px;">Желательно не делать большие перерывы в изучении. Самое главное, понять структуру языка. А еще не нужно бояться делать ошибки, ведь это является частью учебного процесса!</p>
+                                                                     
+                                                                    <p style="margin-top: 0; margin-bottom: 10px;">Нужно активировать полученные знания в речи и как можно больше практиковаться!</p>
+                                                                    
+                                                                    <p style="margin-top: 0; margin-bottom: 10px;"><b>The sky is the limit</b><br> Нет предела совершенству.</p>
+                                                                </div>   
+                                                            </td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </td>
+                        </tr>
+                    </tbody>
+                  </table> -->
