@@ -1,23 +1,23 @@
-<tr>
-                                            <td style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-style: normal; font-size: 21px;  font-weight: 400; color: #FFFFFF; text-align: center; width: 140px;">
-                                                <span style="display: inline-block; width: 35px; height: 35px; border-radius: 50%; border: 3px solid #FFFFFF; line-height: 30px;">1</span>
+<!-- <table cellspacing="0" cellpadding="0" width="536px" border="0">
+                                    <tbody>
+                                        <tr>
+                                            <td align="center" valign="top" style="width: 165px; height: 169px; border-radius: 35px; box-shadow: 0 3px 33px 0 rgba(9, 54, 139, 0.35); background: url(https://storage.dashamail.ru/files/45202/1-bg9174.png) no-repeat center 80px;">
+                                                <div style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-style: normal; font-size: 12px; line-height: 1.5; font-weight: 500; color: #555; text-transform: uppercase; max-width: 110px; padding-top: 20px;">
+                                                    изучаем новую лексику по теме занятия
+                                                </div>
                                             </td>
-                                            <td style="text-align: center; width: 5px;">
-                                                <img src="https://storage.dashamail.ru/files/45202/arrow7969.png" alt="">
+                                            <td style="width: 20px;"></td>
+                                            <td align="center" valign="center" style="width: 165px; height: 169px; border-radius: 35px; box-shadow: 0 3px 33px 0 rgba(9, 54, 139, 0.35); background: url(https://storage.dashamail.ru/files/45202/2-bg691.png) no-repeat center center;">
+                                                <div style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-style: normal; font-size: 12px; line-height: 1.5; font-weight: 500; color: #555; text-transform: uppercase; max-width: 150px;">
+                                                    лепим, рисуем, вырезаем и создаем “шедевры”
+                                                </div>
                                             </td>
-                                            <td style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-style: normal; font-size: 21px; line-height: 21px; font-weight: 400; color: #FFFFFF; text-align: center; width: 120px;">
-                                                <span style="display: inline-block; width: 35px; height: 35px; border-radius: 50%; border: 3px solid #FFFFFF; line-height: 30px;">2</span>
-                                            </td>
-                                            <td style="text-align: center; width: 5px;">
-                                                <img src="https://storage.dashamail.ru/files/45202/arrow7969.png" alt="">
-                                            </td>
-                                            <td style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-style: normal; font-size: 21px; line-height: 21px; font-weight: 400; color: #FFFFFF; text-align: center; width: 120px;">
-                                                <span style="display: inline-block; width: 35px; height: 35px; border-radius: 50%; border: 3px solid #FFFFFF; line-height: 30px;">3</span>
-                                            </td>
-                                            <td style="text-align: center; width: 5px;">
-                                                <img src="https://storage.dashamail.ru/files/45202/arrow7969.png" alt="">
-                                            </td>
-                                            <td style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-style: normal; font-size: 21px; line-height: 21px; font-weight: 400; color: #FFFFFF; text-align: center; width: 140px;">
-                                                <span style="display: inline-block; width: 35px; height: 35px; border-radius: 50%; border: 3px solid #FFFFFF; line-height: 30px;">4</span>
+                                            <td style="width: 20px;"></td>
+                                            <td valign="bottom" align="center" style="width: 165px; height: 169px; border-radius: 35px; box-shadow: 0 3px 33px 0 rgba(9, 54, 139, 0.35); background: url(https://storage.dashamail.ru/files/45202/3-bg4885.png) no-repeat center 20px;">
+                                                <div style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-style: normal; font-size: 12px; line-height: 1.5; font-weight: 500; color: #555; text-transform: uppercase; max-width: 110px; padding-bottom: 15px;">
+                                                    веселимся и общаемся на английском
+                                                </div>
                                             </td>
                                         </tr>
+                                    </tbody>
+                                </table> -->
