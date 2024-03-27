@@ -1,4 +1,121 @@
-На курсе вы: 
-научитесь строить предложения на английском без пауз и мучительных размышлений 
-перестанете бояться ошибок и подтяните практическую грамматику 
-введете в речь массу полезных слов и устойчивых выражений 
+                      <table cellspacing="0" cellpadding="0" width="600px" border="0">
+                        <tbody>
+                            <tr>
+                                <td valign="top" style="width: 600px; height: 18px; background: url(https://storage.dashamail.ru/files/45202/1-i1527.png) no-repeat center top;"></td>
+                            </tr>
+                        </tbody>
+                      </table>
+
+                      <table cellspacing="0" cellpadding="0" width="600px" border="0" style="padding: 20px 10px;">
+                        <tbody>
+                            <tr>
+                                <td>
+                                    <div style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-style: normal;  font-weight: 700; font-size: 36px; line-height: 1; color: #a63ea8; text-align: center;">Весенние каникулы в городе</div>
+                                </td>
+                            </tr>
+                        </tbody>
+                      </table>
+
+                      <table cellspacing="0" cellpadding="0" width="600px" border="0" style="padding: 20px 50px;">
+                        <tbody>
+                            <tr>
+                                <td>
+                                    <div style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-style: normal;  font-weight: 400; font-size: 24px; line-height: 1.2; color: #111634;">Как провести весенние каникулы с пользой для ребенка? Приводите его на наш языковой интенсив <span style="color: #a63ea8; font-weight: 700;">BKC Newton Spring!</span></div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <div style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-style: normal;  font-weight: 400; font-size: 24px; line-height: 1.2; color: #111634; padding-top: 30px;">Тема интенсива — <span style="color: #a63ea8; font-weight: 700;">"Космическая экспедиция"</span>. Юные исследователи отправятся в захватывающее приключение – погрузятся в удивительный мир планет, астероидов и звезд, раскроют их тайны и загадки, а заодно освоят “космическую” лексику естественным способом - 70% общения и обучения проходят на английском языке! За одну неделю интенсива ребенок получит знания, эквивалентные месяцу на обычных курсах.</span></div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <table cellspacing="0" cellpadding="0" width="500px" border="0">
+                                        <tbody>
+                                            <tr>
+                                                <td>
+                                                    <div style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-style: normal;  font-weight: 400; font-size: 24px; line-height: 1.2; color: #111634; padding-top: 30px; padding-right: 20px;">Также ребят ждут увлекательные прогулки и пикники в живописном Пресненском парке и посещение <span style="color: #a63ea8; font-weight: 700;">Московского Зоопарка.</span></div>
+                                                </td>
+                                                <td>
+                                                    <img src="https://storage.dashamail.ru/files/45202/image_362396.png" alt="">
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </td>
+                            </tr>
+                        </tbody>
+                      </table>
+
+                      <table cellspacing="0" cellpadding="0" width="600px" border="0" style="padding: 20px 20px 0 20px; background: #a63ea8;">
+                        <tbody>
+                            <tr>
+                                <td align="left">
+                                    <img src="https://storage.dashamail.ru/files/45202/Bez-imeni-3_19834.png" alt="">
+                                </td>
+                                <td>
+                                    <div style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-style: normal;  font-weight: 400; font-size: 24px; line-height: 1.2; color: #fff; padding-left: 30px; padding-bottom: 30px;">А еще <span style="font-weight: 700;">интенсив</span> – отличная возможность попробовать формат <span style="font-weight: 700;">билингвальной начальной школы</span>, если вы ищете лучшее образование для ребенка на следующий учебный год.</div>
+                                </td>
+                            </tr>
+                        </tbody>
+                      </table>
+
+                      <table cellspacing="0" cellpadding="0" width="600px" border="0" style="padding: 40px 90px 20px 90px;">
+                        <tbody>
+                            <tr>
+                                <td>
+                                    <table cellspacing="0" cellpadding="0" width="420px" border="0">
+                                        <tbody>
+                                            <tr>
+                                                <td>
+                                                    <img src="https://storage.dashamail.ru/files/45202/Calendar9835.png" alt="" style="width: 34px; padding-bottom: 20px;">
+                                                </td>
+                                                <td valign="middle">
+                                                    <div style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-style: normal; font-weight: 700; font-size: 33px; line-height: 1.1; color: #722282; padding-bottom: 20px; padding-left: 20px;">8-12 апреля</div>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <img src="https://storage.dashamail.ru/files/45202/Time_square5100.png" alt="" style="width: 34px; padding-bottom: 20px;">
+                                                </td>
+                                                <td valign="middle">
+                                                    <div style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-style: normal; font-weight: 400; font-size: 26px; line-height: 1.1; color: #722282; padding-bottom: 20px; padding-left: 20px;">c 9:00-19:00 | с 9:00-16:00</div>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <img src="https://storage.dashamail.ru/files/45202/image_20_Traced3676.png" alt="" style="width: 34px; padding-bottom: 20px;">
+                                                </td>
+                                                <td valign="middle">
+                                                    <div style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-style: normal;  font-weight: 400; font-size: 26px; line-height: 1.1; color: #722282; padding-bottom: 20px; padding-left: 20px;">4-х разовое питание</div>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <img src="https://storage.dashamail.ru/files/45202/Location2296.png" alt="" style="width: 34px;">
+                                                </td>
+                                                <td valign="middle">
+                                                    <div style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-style: normal;  font-weight: 400; font-size: 26px; line-height: 1.1; color: #722282; padding-left: 20px;">Москва, Красная пресня</div>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </td>
+                            </tr>
+                        </tbody>
+                      </table>
+
+                      <table cellspacing="0" cellpadding="0" width="600px" border="0" style="padding: 20px 50px;">
+                        <tbody>
+                            <tr>
+                                <td>
+                                    <div style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-style: normal;  font-weight: 700; font-size: 24px; line-height: 1.2; color: #612572; padding-bottom: 50px;">Присоединяйтесь к BKC Newton Spring, чтобы ребенок получил незабываемый опыт и значительный прогресс в изучении английского!</div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="center" style="padding-bottom: 30px;">
+                                    <a target="_blank" style="text-decoration: none; display:inline-block; background-color: #71973C; background: linear-gradient(215deg, #AECD11 0%, #71973C 100%); border-radius: 87px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-style: normal; font-weight: 700; font-size: 24px; line-height: 24px; text-align: center; text-transform: uppercase; color: #ffffff; padding-left: 43px; padding-right: 43px; padding-top: 22px; padding-bottom: 22px;" href="https://newton-school.ru/spring_camp">Узнать подробнее</a>
+                                </td>
+                            </tr>
+                        </tbody>
+                      </table>
